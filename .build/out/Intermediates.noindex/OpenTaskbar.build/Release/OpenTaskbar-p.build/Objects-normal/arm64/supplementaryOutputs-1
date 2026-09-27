@@ -1,0 +1,11 @@
+{
+  "/Users/james/Documents/OpenTaskbar/app/Sources/OpenTaskbar/App/AppDelegate.swift" : {
+    "abi-baseline-json" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/OpenTaskbar.abi.json",
+    "const-values" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/OpenTaskbar-primary.swiftconstvalues",
+    "dependencies" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/OpenTaskbar-primary.d",
+    "diagnostics" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/OpenTaskbar-primary.dia",
+    "swiftdoc" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/OpenTaskbar.swiftdoc",
+    "swiftmodule" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/OpenTaskbar.swiftmodule",
+    "swiftsourceinfo" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/OpenTaskbar.swiftsourceinfo"
+  }
+}

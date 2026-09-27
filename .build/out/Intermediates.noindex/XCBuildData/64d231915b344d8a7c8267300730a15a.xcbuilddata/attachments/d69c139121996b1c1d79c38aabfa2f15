@@ -1,0 +1,4 @@
+module PrivateAPI {
+umbrella header "/Users/james/Documents/OpenTaskbar/app/Sources/PrivateAPI/include/PrivateAPI.h"
+export *
+}

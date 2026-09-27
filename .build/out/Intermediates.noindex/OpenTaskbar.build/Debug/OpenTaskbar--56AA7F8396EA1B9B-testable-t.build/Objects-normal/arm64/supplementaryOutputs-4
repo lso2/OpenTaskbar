@@ -1,0 +1,93 @@
+{
+  "/Users/james/Documents/OpenTaskbar/app/Sources/OpenTaskbar/Bar/BarLayout.swift" : {
+    "const-values" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbar--56AA7F8396EA1B9B-testable-t.build/Objects-normal/arm64/BarLayout.swiftconstvalues",
+    "dependencies" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbar--56AA7F8396EA1B9B-testable-t.build/Objects-normal/arm64/BarLayout.d",
+    "diagnostics" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbar--56AA7F8396EA1B9B-testable-t.build/Objects-normal/arm64/BarLayout.dia",
+    "object" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbar--56AA7F8396EA1B9B-testable-t.build/Objects-normal/arm64/BarLayout.o",
+    "swift-dependencies" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbar--56AA7F8396EA1B9B-testable-t.build/Objects-normal/arm64/BarLayout.swiftdeps"
+  },
+  "/Users/james/Documents/OpenTaskbar/app/Sources/OpenTaskbar/Bar/BarLifecycle.swift" : {
+    "const-values" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbar--56AA7F8396EA1B9B-testable-t.build/Objects-normal/arm64/BarLifecycle.swiftconstvalues",
+    "dependencies" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbar--56AA7F8396EA1B9B-testable-t.build/Objects-normal/arm64/BarLifecycle.d",
+    "diagnostics" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbar--56AA7F8396EA1B9B-testable-t.build/Objects-normal/arm64/BarLifecycle.dia",
+    "object" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbar--56AA7F8396EA1B9B-testable-t.build/Objects-normal/arm64/BarLifecycle.o",
+    "swift-dependencies" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbar--56AA7F8396EA1B9B-testable-t.build/Objects-normal/arm64/BarLifecycle.swiftdeps"
+  },
+  "/Users/james/Documents/OpenTaskbar/app/Sources/OpenTaskbar/Bar/BarModel.swift" : {
+    "const-values" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbar--56AA7F8396EA1B9B-testable-t.build/Objects-normal/arm64/BarModel.swiftconstvalues",
+    "dependencies" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbar--56AA7F8396EA1B9B-testable-t.build/Objects-normal/arm64/BarModel.d",
+    "diagnostics" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbar--56AA7F8396EA1B9B-testable-t.build/Objects-normal/arm64/BarModel.dia",
+    "object" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbar--56AA7F8396EA1B9B-testable-t.build/Objects-normal/arm64/BarModel.o",
+    "swift-dependencies" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbar--56AA7F8396EA1B9B-testable-t.build/Objects-normal/arm64/BarModel.swiftdeps"
+  },
+  "/Users/james/Documents/OpenTaskbar/app/Sources/OpenTaskbar/Bar/BarPanel.swift" : {
+    "const-values" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbar--56AA7F8396EA1B9B-testable-t.build/Objects-normal/arm64/BarPanel.swiftconstvalues",
+    "dependencies" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbar--56AA7F8396EA1B9B-testable-t.build/Objects-normal/arm64/BarPanel.d",
+    "diagnostics" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbar--56AA7F8396EA1B9B-testable-t.build/Objects-normal/arm64/BarPanel.dia",
+    "object" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbar--56AA7F8396EA1B9B-testable-t.build/Objects-normal/arm64/BarPanel.o",
+    "swift-dependencies" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbar--56AA7F8396EA1B9B-testable-t.build/Objects-normal/arm64/BarPanel.swiftdeps"
+  },
+  "/Users/james/Documents/OpenTaskbar/app/Sources/OpenTaskbar/Bar/BarRenderer.swift" : {
+    "const-values" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbar--56AA7F8396EA1B9B-testable-t.build/Objects-normal/arm64/BarRenderer.swiftconstvalues",
+    "dependencies" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbar--56AA7F8396EA1B9B-testable-t.build/Objects-normal/arm64/BarRenderer.d",
+    "diagnostics" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbar--56AA7F8396EA1B9B-testable-t.build/Objects-normal/arm64/BarRenderer.dia",
+    "object" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbar--56AA7F8396EA1B9B-testable-t.build/Objects-normal/arm64/BarRenderer.o",
+    "swift-dependencies" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbar--56AA7F8396EA1B9B-testable-t.build/Objects-normal/arm64/BarRenderer.swiftdeps"
+  },
+  "/Users/james/Documents/OpenTaskbar/app/Sources/OpenTaskbar/Bar/BarResize.swift" : {
+    "const-values" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbar--56AA7F8396EA1B9B-testable-t.build/Objects-normal/arm64/BarResize.swiftconstvalues",
+    "dependencies" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbar--56AA7F8396EA1B9B-testable-t.build/Objects-normal/arm64/BarResize.d",
+    "diagnostics" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbar--56AA7F8396EA1B9B-testable-t.build/Objects-normal/arm64/BarResize.dia",
+    "object" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbar--56AA7F8396EA1B9B-testable-t.build/Objects-normal/arm64/BarResize.o",
+    "swift-dependencies" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbar--56AA7F8396EA1B9B-testable-t.build/Objects-normal/arm64/BarResize.swiftdeps"
+  },
+  "/Users/james/Documents/OpenTaskbar/app/Sources/OpenTaskbar/Bar/BarRightClickActions.swift" : {
+    "const-values" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbar--56AA7F8396EA1B9B-testable-t.build/Objects-normal/arm64/BarRightClickActions.swiftconstvalues",
+    "dependencies" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbar--56AA7F8396EA1B9B-testable-t.build/Objects-normal/arm64/BarRightClickActions.d",
+    "diagnostics" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbar--56AA7F8396EA1B9B-testable-t.build/Objects-normal/arm64/BarRightClickActions.dia",
+    "object" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbar--56AA7F8396EA1B9B-testable-t.build/Objects-normal/arm64/BarRightClickActions.o",
+    "swift-dependencies" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbar--56AA7F8396EA1B9B-testable-t.build/Objects-normal/arm64/BarRightClickActions.swiftdeps"
+  },
+  "/Users/james/Documents/OpenTaskbar/app/Sources/OpenTaskbar/Bar/BarRightEnd.swift" : {
+    "const-values" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbar--56AA7F8396EA1B9B-testable-t.build/Objects-normal/arm64/BarRightEnd.swiftconstvalues",
+    "dependencies" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbar--56AA7F8396EA1B9B-testable-t.build/Objects-normal/arm64/BarRightEnd.d",
+    "diagnostics" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbar--56AA7F8396EA1B9B-testable-t.build/Objects-normal/arm64/BarRightEnd.dia",
+    "object" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbar--56AA7F8396EA1B9B-testable-t.build/Objects-normal/arm64/BarRightEnd.o",
+    "swift-dependencies" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbar--56AA7F8396EA1B9B-testable-t.build/Objects-normal/arm64/BarRightEnd.swiftdeps"
+  },
+  "/Users/james/Documents/OpenTaskbar/app/Sources/OpenTaskbar/Bar/BarView.swift" : {
+    "const-values" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbar--56AA7F8396EA1B9B-testable-t.build/Objects-normal/arm64/BarView.swiftconstvalues",
+    "dependencies" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbar--56AA7F8396EA1B9B-testable-t.build/Objects-normal/arm64/BarView.d",
+    "diagnostics" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbar--56AA7F8396EA1B9B-testable-t.build/Objects-normal/arm64/BarView.dia",
+    "object" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbar--56AA7F8396EA1B9B-testable-t.build/Objects-normal/arm64/BarView.o",
+    "swift-dependencies" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbar--56AA7F8396EA1B9B-testable-t.build/Objects-normal/arm64/BarView.swiftdeps"
+  },
+  "/Users/james/Documents/OpenTaskbar/app/Sources/OpenTaskbar/Bar/TaskbarMetrics.swift" : {
+    "const-values" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbar--56AA7F8396EA1B9B-testable-t.build/Objects-normal/arm64/TaskbarMetrics.swiftconstvalues",
+    "dependencies" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbar--56AA7F8396EA1B9B-testable-t.build/Objects-normal/arm64/TaskbarMetrics.d",
+    "diagnostics" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbar--56AA7F8396EA1B9B-testable-t.build/Objects-normal/arm64/TaskbarMetrics.dia",
+    "object" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbar--56AA7F8396EA1B9B-testable-t.build/Objects-normal/arm64/TaskbarMetrics.o",
+    "swift-dependencies" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbar--56AA7F8396EA1B9B-testable-t.build/Objects-normal/arm64/TaskbarMetrics.swiftdeps"
+  },
+  "/Users/james/Documents/OpenTaskbar/app/Sources/OpenTaskbar/Bar/TrayCells.swift" : {
+    "const-values" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbar--56AA7F8396EA1B9B-testable-t.build/Objects-normal/arm64/TrayCells.swiftconstvalues",
+    "dependencies" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbar--56AA7F8396EA1B9B-testable-t.build/Objects-normal/arm64/TrayCells.d",
+    "diagnostics" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbar--56AA7F8396EA1B9B-testable-t.build/Objects-normal/arm64/TrayCells.dia",
+    "object" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbar--56AA7F8396EA1B9B-testable-t.build/Objects-normal/arm64/TrayCells.o",
+    "swift-dependencies" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbar--56AA7F8396EA1B9B-testable-t.build/Objects-normal/arm64/TrayCells.swiftdeps"
+  },
+  "/Users/james/Documents/OpenTaskbar/app/Sources/OpenTaskbar/Bar/TrayDrag.swift" : {
+    "const-values" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbar--56AA7F8396EA1B9B-testable-t.build/Objects-normal/arm64/TrayDrag.swiftconstvalues",
+    "dependencies" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbar--56AA7F8396EA1B9B-testable-t.build/Objects-normal/arm64/TrayDrag.d",
+    "diagnostics" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbar--56AA7F8396EA1B9B-testable-t.build/Objects-normal/arm64/TrayDrag.dia",
+    "object" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbar--56AA7F8396EA1B9B-testable-t.build/Objects-normal/arm64/TrayDrag.o",
+    "swift-dependencies" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbar--56AA7F8396EA1B9B-testable-t.build/Objects-normal/arm64/TrayDrag.swiftdeps"
+  },
+  "/Users/james/Documents/OpenTaskbar/app/Sources/OpenTaskbar/Drawing/BarGlyphs.swift" : {
+    "const-values" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbar--56AA7F8396EA1B9B-testable-t.build/Objects-normal/arm64/BarGlyphs.swiftconstvalues",
+    "dependencies" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbar--56AA7F8396EA1B9B-testable-t.build/Objects-normal/arm64/BarGlyphs.d",
+    "diagnostics" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbar--56AA7F8396EA1B9B-testable-t.build/Objects-normal/arm64/BarGlyphs.dia",
+    "object" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbar--56AA7F8396EA1B9B-testable-t.build/Objects-normal/arm64/BarGlyphs.o",
+    "swift-dependencies" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbar--56AA7F8396EA1B9B-testable-t.build/Objects-normal/arm64/BarGlyphs.swiftdeps"
+  }
+}

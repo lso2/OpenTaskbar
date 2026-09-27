@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/james/Documents/OpenTaskbar/app/.build/out/Products/Release/OpenTaskbar'
+relocations:     []
+...

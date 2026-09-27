@@ -1,0 +1,19 @@
+Target dependency graph (6 targets)
+Target 'AllIncludingTests' in project 'Aggregate'
+➜ Explicit dependency on target 'OpenTaskbarTests-product' in project 'OpenTaskbar'
+➜ Dependency on target 'OpenTaskbarTests-product' in project 'OpenTaskbar' via transitive dependency through 'OpenTaskbarTests-test-runner'
+➜ Explicit dependency on target 'OpenTaskbar-product' in project 'OpenTaskbar'
+➜ Explicit dependency on target 'PrivateAPI' in project 'OpenTaskbar'
+Target 'OpenTaskbarTests-product' in project 'OpenTaskbar'
+➜ Explicit dependency on target 'PrivateAPI' in project 'OpenTaskbar'
+➜ Explicit dependency on target 'OpenTaskbar-product' in project 'OpenTaskbar'
+➜ Explicit dependency on target 'OpenTaskbar' in project 'OpenTaskbar'
+➜ Explicit dependency on target 'Sparkle-product' in project 'Sparkle'
+Target 'OpenTaskbar' in project 'OpenTaskbar'
+➜ Explicit dependency on target 'PrivateAPI' in project 'OpenTaskbar'
+➜ Explicit dependency on target 'Sparkle-product' in project 'Sparkle'
+Target 'OpenTaskbar-product' in project 'OpenTaskbar'
+➜ Explicit dependency on target 'PrivateAPI' in project 'OpenTaskbar'
+➜ Explicit dependency on target 'Sparkle-product' in project 'Sparkle'
+Target 'Sparkle-product' in project 'Sparkle' (no dependencies)
+Target 'PrivateAPI' in project 'OpenTaskbar' (no dependencies)

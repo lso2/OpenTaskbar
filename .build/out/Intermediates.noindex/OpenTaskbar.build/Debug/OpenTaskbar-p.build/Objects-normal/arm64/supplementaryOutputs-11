@@ -1,0 +1,93 @@
+{
+  "/Users/james/Documents/OpenTaskbar/app/Sources/OpenTaskbar/Settings/ClockPreference.swift" : {
+    "const-values" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbar-p.build/Objects-normal/arm64/ClockPreference.swiftconstvalues",
+    "dependencies" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbar-p.build/Objects-normal/arm64/ClockPreference.d",
+    "diagnostics" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbar-p.build/Objects-normal/arm64/ClockPreference.dia",
+    "object" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbar-p.build/Objects-normal/arm64/ClockPreference.o",
+    "swift-dependencies" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbar-p.build/Objects-normal/arm64/ClockPreference.swiftdeps"
+  },
+  "/Users/james/Documents/OpenTaskbar/app/Sources/OpenTaskbar/Settings/HammerspoonImporter.swift" : {
+    "const-values" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbar-p.build/Objects-normal/arm64/HammerspoonImporter.swiftconstvalues",
+    "dependencies" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbar-p.build/Objects-normal/arm64/HammerspoonImporter.d",
+    "diagnostics" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbar-p.build/Objects-normal/arm64/HammerspoonImporter.dia",
+    "object" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbar-p.build/Objects-normal/arm64/HammerspoonImporter.o",
+    "swift-dependencies" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbar-p.build/Objects-normal/arm64/HammerspoonImporter.swiftdeps"
+  },
+  "/Users/james/Documents/OpenTaskbar/app/Sources/OpenTaskbar/Settings/SettingsBackup.swift" : {
+    "const-values" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbar-p.build/Objects-normal/arm64/SettingsBackup.swiftconstvalues",
+    "dependencies" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbar-p.build/Objects-normal/arm64/SettingsBackup.d",
+    "diagnostics" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbar-p.build/Objects-normal/arm64/SettingsBackup.dia",
+    "object" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbar-p.build/Objects-normal/arm64/SettingsBackup.o",
+    "swift-dependencies" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbar-p.build/Objects-normal/arm64/SettingsBackup.swiftdeps"
+  },
+  "/Users/james/Documents/OpenTaskbar/app/Sources/OpenTaskbar/Settings/SettingsBackupTab.swift" : {
+    "const-values" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbar-p.build/Objects-normal/arm64/SettingsBackupTab.swiftconstvalues",
+    "dependencies" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbar-p.build/Objects-normal/arm64/SettingsBackupTab.d",
+    "diagnostics" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbar-p.build/Objects-normal/arm64/SettingsBackupTab.dia",
+    "object" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbar-p.build/Objects-normal/arm64/SettingsBackupTab.o",
+    "swift-dependencies" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbar-p.build/Objects-normal/arm64/SettingsBackupTab.swiftdeps"
+  },
+  "/Users/james/Documents/OpenTaskbar/app/Sources/OpenTaskbar/Settings/SettingsBarTab.swift" : {
+    "const-values" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbar-p.build/Objects-normal/arm64/SettingsBarTab.swiftconstvalues",
+    "dependencies" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbar-p.build/Objects-normal/arm64/SettingsBarTab.d",
+    "diagnostics" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbar-p.build/Objects-normal/arm64/SettingsBarTab.dia",
+    "object" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbar-p.build/Objects-normal/arm64/SettingsBarTab.o",
+    "swift-dependencies" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbar-p.build/Objects-normal/arm64/SettingsBarTab.swiftdeps"
+  },
+  "/Users/james/Documents/OpenTaskbar/app/Sources/OpenTaskbar/Settings/SettingsControls.swift" : {
+    "const-values" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbar-p.build/Objects-normal/arm64/SettingsControls.swiftconstvalues",
+    "dependencies" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbar-p.build/Objects-normal/arm64/SettingsControls.d",
+    "diagnostics" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbar-p.build/Objects-normal/arm64/SettingsControls.dia",
+    "object" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbar-p.build/Objects-normal/arm64/SettingsControls.o",
+    "swift-dependencies" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbar-p.build/Objects-normal/arm64/SettingsControls.swiftdeps"
+  },
+  "/Users/james/Documents/OpenTaskbar/app/Sources/OpenTaskbar/Settings/SettingsInputTab.swift" : {
+    "const-values" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbar-p.build/Objects-normal/arm64/SettingsInputTab.swiftconstvalues",
+    "dependencies" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbar-p.build/Objects-normal/arm64/SettingsInputTab.d",
+    "diagnostics" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbar-p.build/Objects-normal/arm64/SettingsInputTab.dia",
+    "object" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbar-p.build/Objects-normal/arm64/SettingsInputTab.o",
+    "swift-dependencies" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbar-p.build/Objects-normal/arm64/SettingsInputTab.swiftdeps"
+  },
+  "/Users/james/Documents/OpenTaskbar/app/Sources/OpenTaskbar/Settings/SettingsItemsTab.swift" : {
+    "const-values" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbar-p.build/Objects-normal/arm64/SettingsItemsTab.swiftconstvalues",
+    "dependencies" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbar-p.build/Objects-normal/arm64/SettingsItemsTab.d",
+    "diagnostics" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbar-p.build/Objects-normal/arm64/SettingsItemsTab.dia",
+    "object" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbar-p.build/Objects-normal/arm64/SettingsItemsTab.o",
+    "swift-dependencies" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbar-p.build/Objects-normal/arm64/SettingsItemsTab.swiftdeps"
+  },
+  "/Users/james/Documents/OpenTaskbar/app/Sources/OpenTaskbar/Settings/SettingsModel.swift" : {
+    "const-values" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbar-p.build/Objects-normal/arm64/SettingsModel.swiftconstvalues",
+    "dependencies" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbar-p.build/Objects-normal/arm64/SettingsModel.d",
+    "diagnostics" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbar-p.build/Objects-normal/arm64/SettingsModel.dia",
+    "object" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbar-p.build/Objects-normal/arm64/SettingsModel.o",
+    "swift-dependencies" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbar-p.build/Objects-normal/arm64/SettingsModel.swiftdeps"
+  },
+  "/Users/james/Documents/OpenTaskbar/app/Sources/OpenTaskbar/Settings/SettingsStartTab.swift" : {
+    "const-values" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbar-p.build/Objects-normal/arm64/SettingsStartTab.swiftconstvalues",
+    "dependencies" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbar-p.build/Objects-normal/arm64/SettingsStartTab.d",
+    "diagnostics" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbar-p.build/Objects-normal/arm64/SettingsStartTab.dia",
+    "object" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbar-p.build/Objects-normal/arm64/SettingsStartTab.o",
+    "swift-dependencies" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbar-p.build/Objects-normal/arm64/SettingsStartTab.swiftdeps"
+  },
+  "/Users/james/Documents/OpenTaskbar/app/Sources/OpenTaskbar/Settings/SettingsStore.swift" : {
+    "const-values" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbar-p.build/Objects-normal/arm64/SettingsStore.swiftconstvalues",
+    "dependencies" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbar-p.build/Objects-normal/arm64/SettingsStore.d",
+    "diagnostics" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbar-p.build/Objects-normal/arm64/SettingsStore.dia",
+    "object" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbar-p.build/Objects-normal/arm64/SettingsStore.o",
+    "swift-dependencies" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbar-p.build/Objects-normal/arm64/SettingsStore.swiftdeps"
+  },
+  "/Users/james/Documents/OpenTaskbar/app/Sources/OpenTaskbar/Settings/SettingsWindow.swift" : {
+    "const-values" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbar-p.build/Objects-normal/arm64/SettingsWindow.swiftconstvalues",
+    "dependencies" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbar-p.build/Objects-normal/arm64/SettingsWindow.d",
+    "diagnostics" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbar-p.build/Objects-normal/arm64/SettingsWindow.dia",
+    "object" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbar-p.build/Objects-normal/arm64/SettingsWindow.o",
+    "swift-dependencies" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbar-p.build/Objects-normal/arm64/SettingsWindow.swiftdeps"
+  },
+  "/Users/james/Documents/OpenTaskbar/app/Sources/OpenTaskbar/Settings/StartIconStore.swift" : {
+    "const-values" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbar-p.build/Objects-normal/arm64/StartIconStore.swiftconstvalues",
+    "dependencies" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbar-p.build/Objects-normal/arm64/StartIconStore.d",
+    "diagnostics" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbar-p.build/Objects-normal/arm64/StartIconStore.dia",
+    "object" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbar-p.build/Objects-normal/arm64/StartIconStore.o",
+    "swift-dependencies" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbar-p.build/Objects-normal/arm64/StartIconStore.swiftdeps"
+  }
+}

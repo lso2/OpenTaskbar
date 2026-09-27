@@ -1,0 +1,536 @@
+{
+  "" : {
+    "const-values" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/OpenTaskbar-primary.swiftconstvalues",
+    "dependencies" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/OpenTaskbar-primary.d",
+    "diagnostics" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/OpenTaskbar-primary.dia",
+    "emit-module-dependencies" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/OpenTaskbar-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/OpenTaskbar-primary-emit-module.dia",
+    "pch" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/OpenTaskbar-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/OpenTaskbar-primary.swiftdeps"
+  },
+  "/Users/james/Documents/OpenTaskbar/app/Sources/OpenTaskbar/App/AppDelegate.swift" : {
+    "index-unit-output-path" : "/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/AppDelegate.o",
+    "llvm-bc" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/AppDelegate.bc",
+    "object" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/AppDelegate.o"
+  },
+  "/Users/james/Documents/OpenTaskbar/app/Sources/OpenTaskbar/App/LaunchChecks.swift" : {
+    "index-unit-output-path" : "/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/LaunchChecks.o",
+    "llvm-bc" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/LaunchChecks.bc",
+    "object" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/LaunchChecks.o"
+  },
+  "/Users/james/Documents/OpenTaskbar/app/Sources/OpenTaskbar/App/Log.swift" : {
+    "index-unit-output-path" : "/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/Log.o",
+    "llvm-bc" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/Log.bc",
+    "object" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/Log.o"
+  },
+  "/Users/james/Documents/OpenTaskbar/app/Sources/OpenTaskbar/App/LoginItem.swift" : {
+    "index-unit-output-path" : "/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/LoginItem.o",
+    "llvm-bc" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/LoginItem.bc",
+    "object" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/LoginItem.o"
+  },
+  "/Users/james/Documents/OpenTaskbar/app/Sources/OpenTaskbar/App/ModuleHost.swift" : {
+    "index-unit-output-path" : "/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/ModuleHost.o",
+    "llvm-bc" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/ModuleHost.bc",
+    "object" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/ModuleHost.o"
+  },
+  "/Users/james/Documents/OpenTaskbar/app/Sources/OpenTaskbar/App/Permissions.swift" : {
+    "index-unit-output-path" : "/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/Permissions.o",
+    "llvm-bc" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/Permissions.bc",
+    "object" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/Permissions.o"
+  },
+  "/Users/james/Documents/OpenTaskbar/app/Sources/OpenTaskbar/App/PermissionsSetup.swift" : {
+    "index-unit-output-path" : "/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/PermissionsSetup.o",
+    "llvm-bc" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/PermissionsSetup.bc",
+    "object" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/PermissionsSetup.o"
+  },
+  "/Users/james/Documents/OpenTaskbar/app/Sources/OpenTaskbar/App/PermissionsSetupView.swift" : {
+    "index-unit-output-path" : "/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/PermissionsSetupView.o",
+    "llvm-bc" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/PermissionsSetupView.bc",
+    "object" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/PermissionsSetupView.o"
+  },
+  "/Users/james/Documents/OpenTaskbar/app/Sources/OpenTaskbar/App/Updater.swift" : {
+    "index-unit-output-path" : "/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/Updater.o",
+    "llvm-bc" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/Updater.bc",
+    "object" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/Updater.o"
+  },
+  "/Users/james/Documents/OpenTaskbar/app/Sources/OpenTaskbar/App/main.swift" : {
+    "index-unit-output-path" : "/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/main.o",
+    "llvm-bc" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/main.bc",
+    "object" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/main.o"
+  },
+  "/Users/james/Documents/OpenTaskbar/app/Sources/OpenTaskbar/Bar/BarAutoHide.swift" : {
+    "index-unit-output-path" : "/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/BarAutoHide.o",
+    "llvm-bc" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/BarAutoHide.bc",
+    "object" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/BarAutoHide.o"
+  },
+  "/Users/james/Documents/OpenTaskbar/app/Sources/OpenTaskbar/Bar/BarBackground.swift" : {
+    "index-unit-output-path" : "/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/BarBackground.o",
+    "llvm-bc" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/BarBackground.bc",
+    "object" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/BarBackground.o"
+  },
+  "/Users/james/Documents/OpenTaskbar/app/Sources/OpenTaskbar/Bar/BarClickActions.swift" : {
+    "index-unit-output-path" : "/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/BarClickActions.o",
+    "llvm-bc" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/BarClickActions.bc",
+    "object" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/BarClickActions.o"
+  },
+  "/Users/james/Documents/OpenTaskbar/app/Sources/OpenTaskbar/Bar/BarController.swift" : {
+    "index-unit-output-path" : "/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/BarController.o",
+    "llvm-bc" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/BarController.bc",
+    "object" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/BarController.o"
+  },
+  "/Users/james/Documents/OpenTaskbar/app/Sources/OpenTaskbar/Bar/BarLayout.swift" : {
+    "index-unit-output-path" : "/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/BarLayout.o",
+    "llvm-bc" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/BarLayout.bc",
+    "object" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/BarLayout.o"
+  },
+  "/Users/james/Documents/OpenTaskbar/app/Sources/OpenTaskbar/Bar/BarLifecycle.swift" : {
+    "index-unit-output-path" : "/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/BarLifecycle.o",
+    "llvm-bc" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/BarLifecycle.bc",
+    "object" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/BarLifecycle.o"
+  },
+  "/Users/james/Documents/OpenTaskbar/app/Sources/OpenTaskbar/Bar/BarModel.swift" : {
+    "index-unit-output-path" : "/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/BarModel.o",
+    "llvm-bc" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/BarModel.bc",
+    "object" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/BarModel.o"
+  },
+  "/Users/james/Documents/OpenTaskbar/app/Sources/OpenTaskbar/Bar/BarPanel.swift" : {
+    "index-unit-output-path" : "/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/BarPanel.o",
+    "llvm-bc" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/BarPanel.bc",
+    "object" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/BarPanel.o"
+  },
+  "/Users/james/Documents/OpenTaskbar/app/Sources/OpenTaskbar/Bar/BarRenderer.swift" : {
+    "index-unit-output-path" : "/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/BarRenderer.o",
+    "llvm-bc" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/BarRenderer.bc",
+    "object" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/BarRenderer.o"
+  },
+  "/Users/james/Documents/OpenTaskbar/app/Sources/OpenTaskbar/Bar/BarResize.swift" : {
+    "index-unit-output-path" : "/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/BarResize.o",
+    "llvm-bc" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/BarResize.bc",
+    "object" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/BarResize.o"
+  },
+  "/Users/james/Documents/OpenTaskbar/app/Sources/OpenTaskbar/Bar/BarRightClickActions.swift" : {
+    "index-unit-output-path" : "/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/BarRightClickActions.o",
+    "llvm-bc" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/BarRightClickActions.bc",
+    "object" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/BarRightClickActions.o"
+  },
+  "/Users/james/Documents/OpenTaskbar/app/Sources/OpenTaskbar/Bar/BarRightEnd.swift" : {
+    "index-unit-output-path" : "/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/BarRightEnd.o",
+    "llvm-bc" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/BarRightEnd.bc",
+    "object" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/BarRightEnd.o"
+  },
+  "/Users/james/Documents/OpenTaskbar/app/Sources/OpenTaskbar/Bar/BarView.swift" : {
+    "index-unit-output-path" : "/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/BarView.o",
+    "llvm-bc" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/BarView.bc",
+    "object" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/BarView.o"
+  },
+  "/Users/james/Documents/OpenTaskbar/app/Sources/OpenTaskbar/Bar/TaskbarMetrics.swift" : {
+    "index-unit-output-path" : "/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/TaskbarMetrics.o",
+    "llvm-bc" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/TaskbarMetrics.bc",
+    "object" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/TaskbarMetrics.o"
+  },
+  "/Users/james/Documents/OpenTaskbar/app/Sources/OpenTaskbar/Bar/TrayCells.swift" : {
+    "index-unit-output-path" : "/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/TrayCells.o",
+    "llvm-bc" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/TrayCells.bc",
+    "object" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/TrayCells.o"
+  },
+  "/Users/james/Documents/OpenTaskbar/app/Sources/OpenTaskbar/Bar/TrayDrag.swift" : {
+    "index-unit-output-path" : "/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/TrayDrag.o",
+    "llvm-bc" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/TrayDrag.bc",
+    "object" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/TrayDrag.o"
+  },
+  "/Users/james/Documents/OpenTaskbar/app/Sources/OpenTaskbar/Drawing/BarGlyphs.swift" : {
+    "index-unit-output-path" : "/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/BarGlyphs.o",
+    "llvm-bc" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/BarGlyphs.bc",
+    "object" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/BarGlyphs.o"
+  },
+  "/Users/james/Documents/OpenTaskbar/app/Sources/OpenTaskbar/Drawing/BarPalette.swift" : {
+    "index-unit-output-path" : "/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/BarPalette.o",
+    "llvm-bc" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/BarPalette.bc",
+    "object" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/BarPalette.o"
+  },
+  "/Users/james/Documents/OpenTaskbar/app/Sources/OpenTaskbar/Drawing/GlyphPen.swift" : {
+    "index-unit-output-path" : "/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/GlyphPen.o",
+    "llvm-bc" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/GlyphPen.bc",
+    "object" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/GlyphPen.o"
+  },
+  "/Users/james/Documents/OpenTaskbar/app/Sources/OpenTaskbar/Drawing/TrayGlyphs.swift" : {
+    "index-unit-output-path" : "/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/TrayGlyphs.o",
+    "llvm-bc" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/TrayGlyphs.bc",
+    "object" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/TrayGlyphs.o"
+  },
+  "/Users/james/Documents/OpenTaskbar/app/Sources/OpenTaskbar/Input/ChromiumAccessibility.swift" : {
+    "index-unit-output-path" : "/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/ChromiumAccessibility.o",
+    "llvm-bc" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/ChromiumAccessibility.bc",
+    "object" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/ChromiumAccessibility.o"
+  },
+  "/Users/james/Documents/OpenTaskbar/app/Sources/OpenTaskbar/Input/CtrlClickLink.swift" : {
+    "index-unit-output-path" : "/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/CtrlClickLink.o",
+    "llvm-bc" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/CtrlClickLink.bc",
+    "object" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/CtrlClickLink.o"
+  },
+  "/Users/james/Documents/OpenTaskbar/app/Sources/OpenTaskbar/Input/DocumentJumpKeys.swift" : {
+    "index-unit-output-path" : "/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/DocumentJumpKeys.o",
+    "llvm-bc" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/DocumentJumpKeys.bc",
+    "object" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/DocumentJumpKeys.o"
+  },
+  "/Users/james/Documents/OpenTaskbar/app/Sources/OpenTaskbar/Input/FocusedText.swift" : {
+    "index-unit-output-path" : "/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/FocusedText.o",
+    "llvm-bc" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/FocusedText.bc",
+    "object" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/FocusedText.o"
+  },
+  "/Users/james/Documents/OpenTaskbar/app/Sources/OpenTaskbar/Input/HomeEndKeys.swift" : {
+    "index-unit-output-path" : "/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/HomeEndKeys.o",
+    "llvm-bc" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/HomeEndKeys.bc",
+    "object" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/HomeEndKeys.o"
+  },
+  "/Users/james/Documents/OpenTaskbar/app/Sources/OpenTaskbar/Input/HotKeyCenter.swift" : {
+    "index-unit-output-path" : "/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/HotKeyCenter.o",
+    "llvm-bc" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/HotKeyCenter.bc",
+    "object" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/HotKeyCenter.o"
+  },
+  "/Users/james/Documents/OpenTaskbar/app/Sources/OpenTaskbar/Input/HotKeyModule.swift" : {
+    "index-unit-output-path" : "/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/HotKeyModule.o",
+    "llvm-bc" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/HotKeyModule.bc",
+    "object" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/HotKeyModule.o"
+  },
+  "/Users/james/Documents/OpenTaskbar/app/Sources/OpenTaskbar/Input/KeySender.swift" : {
+    "index-unit-output-path" : "/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/KeySender.o",
+    "llvm-bc" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/KeySender.bc",
+    "object" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/KeySender.o"
+  },
+  "/Users/james/Documents/OpenTaskbar/app/Sources/OpenTaskbar/Input/MicMuteKey.swift" : {
+    "index-unit-output-path" : "/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/MicMuteKey.o",
+    "llvm-bc" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/MicMuteKey.bc",
+    "object" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/MicMuteKey.o"
+  },
+  "/Users/james/Documents/OpenTaskbar/app/Sources/OpenTaskbar/Input/TerminalPaste.swift" : {
+    "index-unit-output-path" : "/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/TerminalPaste.o",
+    "llvm-bc" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/TerminalPaste.bc",
+    "object" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/TerminalPaste.o"
+  },
+  "/Users/james/Documents/OpenTaskbar/app/Sources/OpenTaskbar/Launchers/BarDropTarget.swift" : {
+    "index-unit-output-path" : "/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/BarDropTarget.o",
+    "llvm-bc" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/BarDropTarget.bc",
+    "object" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/BarDropTarget.o"
+  },
+  "/Users/james/Documents/OpenTaskbar/app/Sources/OpenTaskbar/Launchers/LauncherHop.swift" : {
+    "index-unit-output-path" : "/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/LauncherHop.o",
+    "llvm-bc" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/LauncherHop.bc",
+    "object" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/LauncherHop.o"
+  },
+  "/Users/james/Documents/OpenTaskbar/app/Sources/OpenTaskbar/Launchers/LauncherReorder.swift" : {
+    "index-unit-output-path" : "/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/LauncherReorder.o",
+    "llvm-bc" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/LauncherReorder.bc",
+    "object" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/LauncherReorder.o"
+  },
+  "/Users/james/Documents/OpenTaskbar/app/Sources/OpenTaskbar/Launchers/PinnedStore.swift" : {
+    "index-unit-output-path" : "/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/PinnedStore.o",
+    "llvm-bc" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/PinnedStore.bc",
+    "object" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/PinnedStore.o"
+  },
+  "/Users/james/Documents/OpenTaskbar/app/Sources/OpenTaskbar/Menus/AppMenuReader.swift" : {
+    "index-unit-output-path" : "/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/AppMenuReader.o",
+    "llvm-bc" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/AppMenuReader.bc",
+    "object" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/AppMenuReader.o"
+  },
+  "/Users/james/Documents/OpenTaskbar/app/Sources/OpenTaskbar/Menus/BarItemMenus.swift" : {
+    "index-unit-output-path" : "/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/BarItemMenus.o",
+    "llvm-bc" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/BarItemMenus.bc",
+    "object" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/BarItemMenus.o"
+  },
+  "/Users/james/Documents/OpenTaskbar/app/Sources/OpenTaskbar/Menus/DockMenuReader.swift" : {
+    "index-unit-output-path" : "/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/DockMenuReader.o",
+    "llvm-bc" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/DockMenuReader.bc",
+    "object" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/DockMenuReader.o"
+  },
+  "/Users/james/Documents/OpenTaskbar/app/Sources/OpenTaskbar/Menus/LauncherContextMenu.swift" : {
+    "index-unit-output-path" : "/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/LauncherContextMenu.o",
+    "llvm-bc" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/LauncherContextMenu.bc",
+    "object" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/LauncherContextMenu.o"
+  },
+  "/Users/james/Documents/OpenTaskbar/app/Sources/OpenTaskbar/Menus/MenuEntry.swift" : {
+    "index-unit-output-path" : "/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/MenuEntry.o",
+    "llvm-bc" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/MenuEntry.bc",
+    "object" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/MenuEntry.o"
+  },
+  "/Users/james/Documents/OpenTaskbar/app/Sources/OpenTaskbar/Menus/StartContextMenu.swift" : {
+    "index-unit-output-path" : "/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/StartContextMenu.o",
+    "llvm-bc" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/StartContextMenu.bc",
+    "object" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/StartContextMenu.o"
+  },
+  "/Users/james/Documents/OpenTaskbar/app/Sources/OpenTaskbar/Menus/UpwardMenu.swift" : {
+    "index-unit-output-path" : "/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/UpwardMenu.o",
+    "llvm-bc" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/UpwardMenu.bc",
+    "object" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/UpwardMenu.o"
+  },
+  "/Users/james/Documents/OpenTaskbar/app/Sources/OpenTaskbar/Panels/BarTooltip.swift" : {
+    "index-unit-output-path" : "/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/BarTooltip.o",
+    "llvm-bc" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/BarTooltip.bc",
+    "object" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/BarTooltip.o"
+  },
+  "/Users/james/Documents/OpenTaskbar/app/Sources/OpenTaskbar/Panels/BatteryPanel.swift" : {
+    "index-unit-output-path" : "/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/BatteryPanel.o",
+    "llvm-bc" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/BatteryPanel.bc",
+    "object" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/BatteryPanel.o"
+  },
+  "/Users/james/Documents/OpenTaskbar/app/Sources/OpenTaskbar/Panels/BatteryPanelView.swift" : {
+    "index-unit-output-path" : "/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/BatteryPanelView.o",
+    "llvm-bc" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/BatteryPanelView.bc",
+    "object" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/BatteryPanelView.o"
+  },
+  "/Users/james/Documents/OpenTaskbar/app/Sources/OpenTaskbar/Panels/CalendarPanel.swift" : {
+    "index-unit-output-path" : "/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/CalendarPanel.o",
+    "llvm-bc" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/CalendarPanel.bc",
+    "object" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/CalendarPanel.o"
+  },
+  "/Users/james/Documents/OpenTaskbar/app/Sources/OpenTaskbar/Panels/FlashAlert.swift" : {
+    "index-unit-output-path" : "/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/FlashAlert.o",
+    "llvm-bc" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/FlashAlert.bc",
+    "object" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/FlashAlert.o"
+  },
+  "/Users/james/Documents/OpenTaskbar/app/Sources/OpenTaskbar/Panels/FlyoutStyle.swift" : {
+    "index-unit-output-path" : "/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/FlyoutStyle.o",
+    "llvm-bc" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/FlyoutStyle.bc",
+    "object" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/FlyoutStyle.o"
+  },
+  "/Users/james/Documents/OpenTaskbar/app/Sources/OpenTaskbar/Panels/PopupPanel.swift" : {
+    "index-unit-output-path" : "/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/PopupPanel.o",
+    "llvm-bc" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/PopupPanel.bc",
+    "object" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/PopupPanel.o"
+  },
+  "/Users/james/Documents/OpenTaskbar/app/Sources/OpenTaskbar/Panels/ScreenRecorder.swift" : {
+    "index-unit-output-path" : "/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/ScreenRecorder.o",
+    "llvm-bc" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/ScreenRecorder.bc",
+    "object" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/ScreenRecorder.o"
+  },
+  "/Users/james/Documents/OpenTaskbar/app/Sources/OpenTaskbar/Panels/SliderPanel.swift" : {
+    "index-unit-output-path" : "/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/SliderPanel.o",
+    "llvm-bc" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/SliderPanel.bc",
+    "object" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/SliderPanel.o"
+  },
+  "/Users/james/Documents/OpenTaskbar/app/Sources/OpenTaskbar/Panels/ToolsPanel.swift" : {
+    "index-unit-output-path" : "/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/ToolsPanel.o",
+    "llvm-bc" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/ToolsPanel.bc",
+    "object" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/ToolsPanel.o"
+  },
+  "/Users/james/Documents/OpenTaskbar/app/Sources/OpenTaskbar/Panels/TrayOverflowPanel.swift" : {
+    "index-unit-output-path" : "/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/TrayOverflowPanel.o",
+    "llvm-bc" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/TrayOverflowPanel.bc",
+    "object" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/TrayOverflowPanel.o"
+  },
+  "/Users/james/Documents/OpenTaskbar/app/Sources/OpenTaskbar/Panels/WiFiPanel.swift" : {
+    "index-unit-output-path" : "/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/WiFiPanel.o",
+    "llvm-bc" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/WiFiPanel.bc",
+    "object" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/WiFiPanel.o"
+  },
+  "/Users/james/Documents/OpenTaskbar/app/Sources/OpenTaskbar/Panels/WiFiPanelView.swift" : {
+    "index-unit-output-path" : "/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/WiFiPanelView.o",
+    "llvm-bc" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/WiFiPanelView.bc",
+    "object" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/WiFiPanelView.o"
+  },
+  "/Users/james/Documents/OpenTaskbar/app/Sources/OpenTaskbar/Power/PowerActions.swift" : {
+    "index-unit-output-path" : "/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/PowerActions.o",
+    "llvm-bc" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/PowerActions.bc",
+    "object" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/PowerActions.o"
+  },
+  "/Users/james/Documents/OpenTaskbar/app/Sources/OpenTaskbar/Settings/BarSettings.swift" : {
+    "index-unit-output-path" : "/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/BarSettings.o",
+    "llvm-bc" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/BarSettings.bc",
+    "object" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/BarSettings.o"
+  },
+  "/Users/james/Documents/OpenTaskbar/app/Sources/OpenTaskbar/Settings/ClockPreference.swift" : {
+    "index-unit-output-path" : "/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/ClockPreference.o",
+    "llvm-bc" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/ClockPreference.bc",
+    "object" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/ClockPreference.o"
+  },
+  "/Users/james/Documents/OpenTaskbar/app/Sources/OpenTaskbar/Settings/HammerspoonImporter.swift" : {
+    "index-unit-output-path" : "/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/HammerspoonImporter.o",
+    "llvm-bc" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/HammerspoonImporter.bc",
+    "object" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/HammerspoonImporter.o"
+  },
+  "/Users/james/Documents/OpenTaskbar/app/Sources/OpenTaskbar/Settings/SettingsBackup.swift" : {
+    "index-unit-output-path" : "/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/SettingsBackup.o",
+    "llvm-bc" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/SettingsBackup.bc",
+    "object" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/SettingsBackup.o"
+  },
+  "/Users/james/Documents/OpenTaskbar/app/Sources/OpenTaskbar/Settings/SettingsBackupTab.swift" : {
+    "index-unit-output-path" : "/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/SettingsBackupTab.o",
+    "llvm-bc" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/SettingsBackupTab.bc",
+    "object" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/SettingsBackupTab.o"
+  },
+  "/Users/james/Documents/OpenTaskbar/app/Sources/OpenTaskbar/Settings/SettingsBarTab.swift" : {
+    "index-unit-output-path" : "/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/SettingsBarTab.o",
+    "llvm-bc" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/SettingsBarTab.bc",
+    "object" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/SettingsBarTab.o"
+  },
+  "/Users/james/Documents/OpenTaskbar/app/Sources/OpenTaskbar/Settings/SettingsControls.swift" : {
+    "index-unit-output-path" : "/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/SettingsControls.o",
+    "llvm-bc" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/SettingsControls.bc",
+    "object" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/SettingsControls.o"
+  },
+  "/Users/james/Documents/OpenTaskbar/app/Sources/OpenTaskbar/Settings/SettingsInputTab.swift" : {
+    "index-unit-output-path" : "/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/SettingsInputTab.o",
+    "llvm-bc" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/SettingsInputTab.bc",
+    "object" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/SettingsInputTab.o"
+  },
+  "/Users/james/Documents/OpenTaskbar/app/Sources/OpenTaskbar/Settings/SettingsItemsTab.swift" : {
+    "index-unit-output-path" : "/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/SettingsItemsTab.o",
+    "llvm-bc" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/SettingsItemsTab.bc",
+    "object" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/SettingsItemsTab.o"
+  },
+  "/Users/james/Documents/OpenTaskbar/app/Sources/OpenTaskbar/Settings/SettingsModel.swift" : {
+    "index-unit-output-path" : "/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/SettingsModel.o",
+    "llvm-bc" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/SettingsModel.bc",
+    "object" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/SettingsModel.o"
+  },
+  "/Users/james/Documents/OpenTaskbar/app/Sources/OpenTaskbar/Settings/SettingsStartTab.swift" : {
+    "index-unit-output-path" : "/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/SettingsStartTab.o",
+    "llvm-bc" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/SettingsStartTab.bc",
+    "object" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/SettingsStartTab.o"
+  },
+  "/Users/james/Documents/OpenTaskbar/app/Sources/OpenTaskbar/Settings/SettingsStore.swift" : {
+    "index-unit-output-path" : "/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/SettingsStore.o",
+    "llvm-bc" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/SettingsStore.bc",
+    "object" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/SettingsStore.o"
+  },
+  "/Users/james/Documents/OpenTaskbar/app/Sources/OpenTaskbar/Settings/SettingsWindow.swift" : {
+    "index-unit-output-path" : "/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/SettingsWindow.o",
+    "llvm-bc" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/SettingsWindow.bc",
+    "object" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/SettingsWindow.o"
+  },
+  "/Users/james/Documents/OpenTaskbar/app/Sources/OpenTaskbar/Settings/StartIconStore.swift" : {
+    "index-unit-output-path" : "/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/StartIconStore.o",
+    "llvm-bc" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/StartIconStore.bc",
+    "object" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/StartIconStore.o"
+  },
+  "/Users/james/Documents/OpenTaskbar/app/Sources/OpenTaskbar/Start/AppCatalog.swift" : {
+    "index-unit-output-path" : "/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/AppCatalog.o",
+    "llvm-bc" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/AppCatalog.bc",
+    "object" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/AppCatalog.o"
+  },
+  "/Users/james/Documents/OpenTaskbar/app/Sources/OpenTaskbar/Start/StartKeyTap.swift" : {
+    "index-unit-output-path" : "/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/StartKeyTap.o",
+    "llvm-bc" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/StartKeyTap.bc",
+    "object" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/StartKeyTap.o"
+  },
+  "/Users/james/Documents/OpenTaskbar/app/Sources/OpenTaskbar/Start/StartPanel.swift" : {
+    "index-unit-output-path" : "/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/StartPanel.o",
+    "llvm-bc" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/StartPanel.bc",
+    "object" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/StartPanel.o"
+  },
+  "/Users/james/Documents/OpenTaskbar/app/Sources/OpenTaskbar/Start/StartPanelView.swift" : {
+    "index-unit-output-path" : "/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/StartPanelView.o",
+    "llvm-bc" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/StartPanelView.bc",
+    "object" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/StartPanelView.o"
+  },
+  "/Users/james/Documents/OpenTaskbar/app/Sources/OpenTaskbar/Tray/AudioControl.swift" : {
+    "index-unit-output-path" : "/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/AudioControl.o",
+    "llvm-bc" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/AudioControl.bc",
+    "object" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/AudioControl.o"
+  },
+  "/Users/james/Documents/OpenTaskbar/app/Sources/OpenTaskbar/Tray/Battery.swift" : {
+    "index-unit-output-path" : "/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/Battery.o",
+    "llvm-bc" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/Battery.bc",
+    "object" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/Battery.o"
+  },
+  "/Users/james/Documents/OpenTaskbar/app/Sources/OpenTaskbar/Tray/ControlCenterReader.swift" : {
+    "index-unit-output-path" : "/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/ControlCenterReader.o",
+    "llvm-bc" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/ControlCenterReader.bc",
+    "object" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/ControlCenterReader.o"
+  },
+  "/Users/james/Documents/OpenTaskbar/app/Sources/OpenTaskbar/Tray/CoreAudio.swift" : {
+    "index-unit-output-path" : "/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/CoreAudio.o",
+    "llvm-bc" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/CoreAudio.bc",
+    "object" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/CoreAudio.o"
+  },
+  "/Users/james/Documents/OpenTaskbar/app/Sources/OpenTaskbar/Tray/DisplayBrightness.swift" : {
+    "index-unit-output-path" : "/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/DisplayBrightness.o",
+    "llvm-bc" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/DisplayBrightness.bc",
+    "object" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/DisplayBrightness.o"
+  },
+  "/Users/james/Documents/OpenTaskbar/app/Sources/OpenTaskbar/Tray/EnergyUsage.swift" : {
+    "index-unit-output-path" : "/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/EnergyUsage.o",
+    "llvm-bc" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/EnergyUsage.bc",
+    "object" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/EnergyUsage.o"
+  },
+  "/Users/james/Documents/OpenTaskbar/app/Sources/OpenTaskbar/Tray/KeyboardBacklight.swift" : {
+    "index-unit-output-path" : "/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/KeyboardBacklight.o",
+    "llvm-bc" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/KeyboardBacklight.bc",
+    "object" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/KeyboardBacklight.o"
+  },
+  "/Users/james/Documents/OpenTaskbar/app/Sources/OpenTaskbar/Tray/LowPowerMode.swift" : {
+    "index-unit-output-path" : "/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/LowPowerMode.o",
+    "llvm-bc" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/LowPowerMode.bc",
+    "object" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/LowPowerMode.o"
+  },
+  "/Users/james/Documents/OpenTaskbar/app/Sources/OpenTaskbar/Tray/SpotlightLauncher.swift" : {
+    "index-unit-output-path" : "/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/SpotlightLauncher.o",
+    "llvm-bc" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/SpotlightLauncher.bc",
+    "object" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/SpotlightLauncher.o"
+  },
+  "/Users/james/Documents/OpenTaskbar/app/Sources/OpenTaskbar/Tray/StatusItemGlyphs.swift" : {
+    "index-unit-output-path" : "/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/StatusItemGlyphs.o",
+    "llvm-bc" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/StatusItemGlyphs.bc",
+    "object" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/StatusItemGlyphs.o"
+  },
+  "/Users/james/Documents/OpenTaskbar/app/Sources/OpenTaskbar/Tray/StatusItemMirror.swift" : {
+    "index-unit-output-path" : "/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/StatusItemMirror.o",
+    "llvm-bc" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/StatusItemMirror.bc",
+    "object" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/StatusItemMirror.o"
+  },
+  "/Users/james/Documents/OpenTaskbar/app/Sources/OpenTaskbar/Tray/TrayMenus.swift" : {
+    "index-unit-output-path" : "/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/TrayMenus.o",
+    "llvm-bc" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/TrayMenus.bc",
+    "object" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/TrayMenus.o"
+  },
+  "/Users/james/Documents/OpenTaskbar/app/Sources/OpenTaskbar/Tray/TrayOrder.swift" : {
+    "index-unit-output-path" : "/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/TrayOrder.o",
+    "llvm-bc" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/TrayOrder.bc",
+    "object" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/TrayOrder.o"
+  },
+  "/Users/james/Documents/OpenTaskbar/app/Sources/OpenTaskbar/Tray/WiFi.swift" : {
+    "index-unit-output-path" : "/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/WiFi.o",
+    "llvm-bc" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/WiFi.bc",
+    "object" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/WiFi.o"
+  },
+  "/Users/james/Documents/OpenTaskbar/app/Sources/OpenTaskbar/Tray/WiFiNetworks.swift" : {
+    "index-unit-output-path" : "/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/WiFiNetworks.o",
+    "llvm-bc" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/WiFiNetworks.bc",
+    "object" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/WiFiNetworks.o"
+  },
+  "/Users/james/Documents/OpenTaskbar/app/Sources/OpenTaskbar/WindowBehavior/CloseQuitsApp.swift" : {
+    "index-unit-output-path" : "/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/CloseQuitsApp.o",
+    "llvm-bc" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/CloseQuitsApp.bc",
+    "object" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/CloseQuitsApp.o"
+  },
+  "/Users/james/Documents/OpenTaskbar/app/Sources/OpenTaskbar/WindowBehavior/WindowSnapping.swift" : {
+    "index-unit-output-path" : "/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/WindowSnapping.o",
+    "llvm-bc" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/WindowSnapping.bc",
+    "object" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/WindowSnapping.o"
+  },
+  "/Users/james/Documents/OpenTaskbar/app/Sources/OpenTaskbar/Windows/AXActor.swift" : {
+    "index-unit-output-path" : "/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/AXActor.o",
+    "llvm-bc" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/AXActor.bc",
+    "object" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/AXActor.o"
+  },
+  "/Users/james/Documents/OpenTaskbar/app/Sources/OpenTaskbar/Windows/WindowActions.swift" : {
+    "index-unit-output-path" : "/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/WindowActions.o",
+    "llvm-bc" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/WindowActions.bc",
+    "object" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/WindowActions.o"
+  },
+  "/Users/james/Documents/OpenTaskbar/app/Sources/OpenTaskbar/Windows/WindowList.swift" : {
+    "index-unit-output-path" : "/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/WindowList.o",
+    "llvm-bc" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/WindowList.bc",
+    "object" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/WindowList.o"
+  },
+  "/Users/james/Documents/OpenTaskbar/app/Sources/OpenTaskbar/Windows/WindowObserver.swift" : {
+    "index-unit-output-path" : "/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/WindowObserver.o",
+    "llvm-bc" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/WindowObserver.bc",
+    "object" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/WindowObserver.o"
+  },
+  "/Users/james/Documents/OpenTaskbar/app/Sources/OpenTaskbar/Windows/WindowPreview.swift" : {
+    "index-unit-output-path" : "/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/WindowPreview.o",
+    "llvm-bc" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/WindowPreview.bc",
+    "object" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Release/OpenTaskbar-p.build/Objects-normal/arm64/WindowPreview.o"
+  }
+}

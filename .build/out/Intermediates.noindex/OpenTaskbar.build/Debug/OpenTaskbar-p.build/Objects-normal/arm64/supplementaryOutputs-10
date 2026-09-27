@@ -1,0 +1,93 @@
+{
+  "/Users/james/Documents/OpenTaskbar/app/Sources/OpenTaskbar/Panels/BatteryPanelView.swift" : {
+    "const-values" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbar-p.build/Objects-normal/arm64/BatteryPanelView.swiftconstvalues",
+    "dependencies" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbar-p.build/Objects-normal/arm64/BatteryPanelView.d",
+    "diagnostics" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbar-p.build/Objects-normal/arm64/BatteryPanelView.dia",
+    "object" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbar-p.build/Objects-normal/arm64/BatteryPanelView.o",
+    "swift-dependencies" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbar-p.build/Objects-normal/arm64/BatteryPanelView.swiftdeps"
+  },
+  "/Users/james/Documents/OpenTaskbar/app/Sources/OpenTaskbar/Panels/CalendarPanel.swift" : {
+    "const-values" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbar-p.build/Objects-normal/arm64/CalendarPanel.swiftconstvalues",
+    "dependencies" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbar-p.build/Objects-normal/arm64/CalendarPanel.d",
+    "diagnostics" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbar-p.build/Objects-normal/arm64/CalendarPanel.dia",
+    "object" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbar-p.build/Objects-normal/arm64/CalendarPanel.o",
+    "swift-dependencies" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbar-p.build/Objects-normal/arm64/CalendarPanel.swiftdeps"
+  },
+  "/Users/james/Documents/OpenTaskbar/app/Sources/OpenTaskbar/Panels/FlashAlert.swift" : {
+    "const-values" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbar-p.build/Objects-normal/arm64/FlashAlert.swiftconstvalues",
+    "dependencies" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbar-p.build/Objects-normal/arm64/FlashAlert.d",
+    "diagnostics" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbar-p.build/Objects-normal/arm64/FlashAlert.dia",
+    "object" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbar-p.build/Objects-normal/arm64/FlashAlert.o",
+    "swift-dependencies" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbar-p.build/Objects-normal/arm64/FlashAlert.swiftdeps"
+  },
+  "/Users/james/Documents/OpenTaskbar/app/Sources/OpenTaskbar/Panels/FlyoutStyle.swift" : {
+    "const-values" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbar-p.build/Objects-normal/arm64/FlyoutStyle.swiftconstvalues",
+    "dependencies" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbar-p.build/Objects-normal/arm64/FlyoutStyle.d",
+    "diagnostics" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbar-p.build/Objects-normal/arm64/FlyoutStyle.dia",
+    "object" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbar-p.build/Objects-normal/arm64/FlyoutStyle.o",
+    "swift-dependencies" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbar-p.build/Objects-normal/arm64/FlyoutStyle.swiftdeps"
+  },
+  "/Users/james/Documents/OpenTaskbar/app/Sources/OpenTaskbar/Panels/PopupPanel.swift" : {
+    "const-values" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbar-p.build/Objects-normal/arm64/PopupPanel.swiftconstvalues",
+    "dependencies" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbar-p.build/Objects-normal/arm64/PopupPanel.d",
+    "diagnostics" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbar-p.build/Objects-normal/arm64/PopupPanel.dia",
+    "object" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbar-p.build/Objects-normal/arm64/PopupPanel.o",
+    "swift-dependencies" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbar-p.build/Objects-normal/arm64/PopupPanel.swiftdeps"
+  },
+  "/Users/james/Documents/OpenTaskbar/app/Sources/OpenTaskbar/Panels/ScreenRecorder.swift" : {
+    "const-values" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbar-p.build/Objects-normal/arm64/ScreenRecorder.swiftconstvalues",
+    "dependencies" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbar-p.build/Objects-normal/arm64/ScreenRecorder.d",
+    "diagnostics" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbar-p.build/Objects-normal/arm64/ScreenRecorder.dia",
+    "object" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbar-p.build/Objects-normal/arm64/ScreenRecorder.o",
+    "swift-dependencies" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbar-p.build/Objects-normal/arm64/ScreenRecorder.swiftdeps"
+  },
+  "/Users/james/Documents/OpenTaskbar/app/Sources/OpenTaskbar/Panels/SliderPanel.swift" : {
+    "const-values" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbar-p.build/Objects-normal/arm64/SliderPanel.swiftconstvalues",
+    "dependencies" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbar-p.build/Objects-normal/arm64/SliderPanel.d",
+    "diagnostics" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbar-p.build/Objects-normal/arm64/SliderPanel.dia",
+    "object" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbar-p.build/Objects-normal/arm64/SliderPanel.o",
+    "swift-dependencies" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbar-p.build/Objects-normal/arm64/SliderPanel.swiftdeps"
+  },
+  "/Users/james/Documents/OpenTaskbar/app/Sources/OpenTaskbar/Panels/ToolsPanel.swift" : {
+    "const-values" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbar-p.build/Objects-normal/arm64/ToolsPanel.swiftconstvalues",
+    "dependencies" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbar-p.build/Objects-normal/arm64/ToolsPanel.d",
+    "diagnostics" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbar-p.build/Objects-normal/arm64/ToolsPanel.dia",
+    "object" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbar-p.build/Objects-normal/arm64/ToolsPanel.o",
+    "swift-dependencies" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbar-p.build/Objects-normal/arm64/ToolsPanel.swiftdeps"
+  },
+  "/Users/james/Documents/OpenTaskbar/app/Sources/OpenTaskbar/Panels/TrayOverflowPanel.swift" : {
+    "const-values" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbar-p.build/Objects-normal/arm64/TrayOverflowPanel.swiftconstvalues",
+    "dependencies" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbar-p.build/Objects-normal/arm64/TrayOverflowPanel.d",
+    "diagnostics" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbar-p.build/Objects-normal/arm64/TrayOverflowPanel.dia",
+    "object" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbar-p.build/Objects-normal/arm64/TrayOverflowPanel.o",
+    "swift-dependencies" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbar-p.build/Objects-normal/arm64/TrayOverflowPanel.swiftdeps"
+  },
+  "/Users/james/Documents/OpenTaskbar/app/Sources/OpenTaskbar/Panels/WiFiPanel.swift" : {
+    "const-values" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbar-p.build/Objects-normal/arm64/WiFiPanel.swiftconstvalues",
+    "dependencies" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbar-p.build/Objects-normal/arm64/WiFiPanel.d",
+    "diagnostics" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbar-p.build/Objects-normal/arm64/WiFiPanel.dia",
+    "object" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbar-p.build/Objects-normal/arm64/WiFiPanel.o",
+    "swift-dependencies" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbar-p.build/Objects-normal/arm64/WiFiPanel.swiftdeps"
+  },
+  "/Users/james/Documents/OpenTaskbar/app/Sources/OpenTaskbar/Panels/WiFiPanelView.swift" : {
+    "const-values" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbar-p.build/Objects-normal/arm64/WiFiPanelView.swiftconstvalues",
+    "dependencies" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbar-p.build/Objects-normal/arm64/WiFiPanelView.d",
+    "diagnostics" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbar-p.build/Objects-normal/arm64/WiFiPanelView.dia",
+    "object" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbar-p.build/Objects-normal/arm64/WiFiPanelView.o",
+    "swift-dependencies" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbar-p.build/Objects-normal/arm64/WiFiPanelView.swiftdeps"
+  },
+  "/Users/james/Documents/OpenTaskbar/app/Sources/OpenTaskbar/Power/PowerActions.swift" : {
+    "const-values" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbar-p.build/Objects-normal/arm64/PowerActions.swiftconstvalues",
+    "dependencies" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbar-p.build/Objects-normal/arm64/PowerActions.d",
+    "diagnostics" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbar-p.build/Objects-normal/arm64/PowerActions.dia",
+    "object" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbar-p.build/Objects-normal/arm64/PowerActions.o",
+    "swift-dependencies" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbar-p.build/Objects-normal/arm64/PowerActions.swiftdeps"
+  },
+  "/Users/james/Documents/OpenTaskbar/app/Sources/OpenTaskbar/Settings/BarSettings.swift" : {
+    "const-values" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbar-p.build/Objects-normal/arm64/BarSettings.swiftconstvalues",
+    "dependencies" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbar-p.build/Objects-normal/arm64/BarSettings.d",
+    "diagnostics" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbar-p.build/Objects-normal/arm64/BarSettings.dia",
+    "object" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbar-p.build/Objects-normal/arm64/BarSettings.o",
+    "swift-dependencies" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbar-p.build/Objects-normal/arm64/BarSettings.swiftdeps"
+  }
+}

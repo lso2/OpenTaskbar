@@ -1,0 +1,79 @@
+{
+  "" : {
+    "diagnostics" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbarTests-p.build/Objects-normal/arm64/OpenTaskbarTests-primary.dia",
+    "emit-module-dependencies" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbarTests-p.build/Objects-normal/arm64/OpenTaskbarTests-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbarTests-p.build/Objects-normal/arm64/OpenTaskbarTests-primary-emit-module.dia",
+    "pch" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbarTests-p.build/Objects-normal/arm64/OpenTaskbarTests-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbarTests-p.build/Objects-normal/arm64/OpenTaskbarTests-primary.swiftdeps"
+  },
+  "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbarTests-p.build/DerivedSources/test_entry_point.swift" : {
+    "const-values" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbarTests-p.build/Objects-normal/arm64/test_entry_point.swiftconstvalues",
+    "dependencies" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbarTests-p.build/Objects-normal/arm64/test_entry_point.d",
+    "diagnostics" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbarTests-p.build/Objects-normal/arm64/test_entry_point.dia",
+    "index-unit-output-path" : "/OpenTaskbar.build/Debug/OpenTaskbarTests-p.build/Objects-normal/arm64/test_entry_point.o",
+    "llvm-bc" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbarTests-p.build/Objects-normal/arm64/test_entry_point.bc",
+    "object" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbarTests-p.build/Objects-normal/arm64/test_entry_point.o",
+    "swift-dependencies" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbarTests-p.build/Objects-normal/arm64/test_entry_point.swiftdeps",
+    "swiftmodule" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbarTests-p.build/Objects-normal/arm64/test_entry_point~partial.swiftmodule"
+  },
+  "/Users/james/Documents/OpenTaskbar/app/Tests/OpenTaskbarTests/BarLayoutTests.swift" : {
+    "const-values" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbarTests-p.build/Objects-normal/arm64/BarLayoutTests.swiftconstvalues",
+    "dependencies" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbarTests-p.build/Objects-normal/arm64/BarLayoutTests.d",
+    "diagnostics" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbarTests-p.build/Objects-normal/arm64/BarLayoutTests.dia",
+    "index-unit-output-path" : "/OpenTaskbar.build/Debug/OpenTaskbarTests-p.build/Objects-normal/arm64/BarLayoutTests.o",
+    "llvm-bc" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbarTests-p.build/Objects-normal/arm64/BarLayoutTests.bc",
+    "object" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbarTests-p.build/Objects-normal/arm64/BarLayoutTests.o",
+    "swift-dependencies" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbarTests-p.build/Objects-normal/arm64/BarLayoutTests.swiftdeps",
+    "swiftmodule" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbarTests-p.build/Objects-normal/arm64/BarLayoutTests~partial.swiftmodule"
+  },
+  "/Users/james/Documents/OpenTaskbar/app/Tests/OpenTaskbarTests/BarSnapshotTests.swift" : {
+    "const-values" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbarTests-p.build/Objects-normal/arm64/BarSnapshotTests.swiftconstvalues",
+    "dependencies" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbarTests-p.build/Objects-normal/arm64/BarSnapshotTests.d",
+    "diagnostics" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbarTests-p.build/Objects-normal/arm64/BarSnapshotTests.dia",
+    "index-unit-output-path" : "/OpenTaskbar.build/Debug/OpenTaskbarTests-p.build/Objects-normal/arm64/BarSnapshotTests.o",
+    "llvm-bc" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbarTests-p.build/Objects-normal/arm64/BarSnapshotTests.bc",
+    "object" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbarTests-p.build/Objects-normal/arm64/BarSnapshotTests.o",
+    "swift-dependencies" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbarTests-p.build/Objects-normal/arm64/BarSnapshotTests.swiftdeps",
+    "swiftmodule" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbarTests-p.build/Objects-normal/arm64/BarSnapshotTests~partial.swiftmodule"
+  },
+  "/Users/james/Documents/OpenTaskbar/app/Tests/OpenTaskbarTests/PanelSnapshotTests.swift" : {
+    "const-values" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbarTests-p.build/Objects-normal/arm64/PanelSnapshotTests.swiftconstvalues",
+    "dependencies" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbarTests-p.build/Objects-normal/arm64/PanelSnapshotTests.d",
+    "diagnostics" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbarTests-p.build/Objects-normal/arm64/PanelSnapshotTests.dia",
+    "index-unit-output-path" : "/OpenTaskbar.build/Debug/OpenTaskbarTests-p.build/Objects-normal/arm64/PanelSnapshotTests.o",
+    "llvm-bc" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbarTests-p.build/Objects-normal/arm64/PanelSnapshotTests.bc",
+    "object" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbarTests-p.build/Objects-normal/arm64/PanelSnapshotTests.o",
+    "swift-dependencies" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbarTests-p.build/Objects-normal/arm64/PanelSnapshotTests.swiftdeps",
+    "swiftmodule" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbarTests-p.build/Objects-normal/arm64/PanelSnapshotTests~partial.swiftmodule"
+  },
+  "/Users/james/Documents/OpenTaskbar/app/Tests/OpenTaskbarTests/StatusGlyphTests.swift" : {
+    "const-values" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbarTests-p.build/Objects-normal/arm64/StatusGlyphTests.swiftconstvalues",
+    "dependencies" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbarTests-p.build/Objects-normal/arm64/StatusGlyphTests.d",
+    "diagnostics" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbarTests-p.build/Objects-normal/arm64/StatusGlyphTests.dia",
+    "index-unit-output-path" : "/OpenTaskbar.build/Debug/OpenTaskbarTests-p.build/Objects-normal/arm64/StatusGlyphTests.o",
+    "llvm-bc" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbarTests-p.build/Objects-normal/arm64/StatusGlyphTests.bc",
+    "object" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbarTests-p.build/Objects-normal/arm64/StatusGlyphTests.o",
+    "swift-dependencies" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbarTests-p.build/Objects-normal/arm64/StatusGlyphTests.swiftdeps",
+    "swiftmodule" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbarTests-p.build/Objects-normal/arm64/StatusGlyphTests~partial.swiftmodule"
+  },
+  "/Users/james/Documents/OpenTaskbar/app/Tests/OpenTaskbarTests/TestInputs.swift" : {
+    "const-values" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbarTests-p.build/Objects-normal/arm64/TestInputs.swiftconstvalues",
+    "dependencies" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbarTests-p.build/Objects-normal/arm64/TestInputs.d",
+    "diagnostics" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbarTests-p.build/Objects-normal/arm64/TestInputs.dia",
+    "index-unit-output-path" : "/OpenTaskbar.build/Debug/OpenTaskbarTests-p.build/Objects-normal/arm64/TestInputs.o",
+    "llvm-bc" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbarTests-p.build/Objects-normal/arm64/TestInputs.bc",
+    "object" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbarTests-p.build/Objects-normal/arm64/TestInputs.o",
+    "swift-dependencies" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbarTests-p.build/Objects-normal/arm64/TestInputs.swiftdeps",
+    "swiftmodule" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbarTests-p.build/Objects-normal/arm64/TestInputs~partial.swiftmodule"
+  },
+  "/Users/james/Documents/OpenTaskbar/app/Tests/OpenTaskbarTests/TrayOrderTests.swift" : {
+    "const-values" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbarTests-p.build/Objects-normal/arm64/TrayOrderTests.swiftconstvalues",
+    "dependencies" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbarTests-p.build/Objects-normal/arm64/TrayOrderTests.d",
+    "diagnostics" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbarTests-p.build/Objects-normal/arm64/TrayOrderTests.dia",
+    "index-unit-output-path" : "/OpenTaskbar.build/Debug/OpenTaskbarTests-p.build/Objects-normal/arm64/TrayOrderTests.o",
+    "llvm-bc" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbarTests-p.build/Objects-normal/arm64/TrayOrderTests.bc",
+    "object" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbarTests-p.build/Objects-normal/arm64/TrayOrderTests.o",
+    "swift-dependencies" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbarTests-p.build/Objects-normal/arm64/TrayOrderTests.swiftdeps",
+    "swiftmodule" : "/Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/OpenTaskbar.build/Debug/OpenTaskbarTests-p.build/Objects-normal/arm64/TrayOrderTests~partial.swiftmodule"
+  }
+}

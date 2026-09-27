@@ -1,0 +1,4 @@
+module OpenTaskbar {
+header "OpenTaskbar-Swift.h"
+export *
+}

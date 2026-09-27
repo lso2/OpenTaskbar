@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>CFBundleName</key>
+    <string>OpenTaskbar</string>
+    <key>CFBundleDisplayName</key>
+    <string>OpenTaskbar</string>
+    <key>CFBundleIdentifier</key>
+    <string>com.plexpixel.OpenTaskbar</string>
+    <key>CFBundleExecutable</key>
+    <string>OpenTaskbar</string>
+    <key>CFBundlePackageType</key>
+    <string>APPL</string>
+    <key>CFBundleShortVersionString</key>
+    <string>0.2.0</string>
+    <key>CFBundleVersion</key>
+    <string>2</string>
+    <key>LSMinimumSystemVersion</key>
+    <string>15.0</string>
+    <key>LSUIElement</key>
+    <true/>
+    <key>NSHighResolutionCapable</key>
+    <true/>
+    <key>NSHumanReadableCopyright</key>
+    <string>MIT License. Built by PlexPixel.</string>
+    <key>SUFeedURL</key>
+    <string>https://github.com/lso2/OpenTaskbar/releases/latest/download/appcast.xml</string>
+    <key>SUPublicEDKey</key>
+    <string>fWoAN1opefcIrvxPLXIfqFYk3yfZFqFsizvcQVw1l8Q=</string>
+    <key>SUEnableAutomaticChecks</key>
+    <true/>
+    <key>NSAppleEventsUsageDescription</key>
+    <string>OpenTaskbar asks loginwindow to shut down, restart and log out when you choose those from the Start panel.</string>
+    <key>NSLocationUsageDescription</key>
+    <string>macOS reveals the Wi-Fi network name only to apps allowed to use Location Services. OpenTaskbar reads the name for the Wi-Fi item and nothing else.</string>
+    <key>NSLocationWhenInUseUsageDescription</key>
+    <string>macOS reveals the Wi-Fi network name only to apps allowed to use Location Services. OpenTaskbar reads the name for the Wi-Fi item and nothing else.</string>
+</dict>
+</plist>

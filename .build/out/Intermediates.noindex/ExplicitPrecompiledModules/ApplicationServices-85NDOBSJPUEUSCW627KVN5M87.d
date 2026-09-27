@@ -1,0 +1,20 @@
+moduledependenciestarget: \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX27.0.sdk/SDKSettings.json \
+  /Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/ExplicitPrecompiledModules/_DarwinFoundation1-AOEKM92UJPXT7MZ817JRHU7BN.pcm \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX27.0.sdk/usr/include/DarwinFoundation1.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/21/include/module.modulemap \
+  /Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/ExplicitPrecompiledModules/CoreServices-BSCWB4TGFJ0JMERMXNDQLSRSD.pcm \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX27.0.sdk/usr/include/DarwinFoundation2.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX27.0.sdk/System/Library/Frameworks/CoreFoundation.framework/Modules/module.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX27.0.sdk/System/Library/Frameworks/CoreServices.framework/Modules/module.modulemap \
+  /Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/ExplicitPrecompiledModules/CoreText-JOIANTLL8F4UWGKSDU24I41A.pcm \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX27.0.sdk/System/Library/Frameworks/CoreGraphics.framework/Modules/module.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX27.0.sdk/System/Library/Frameworks/CoreText.framework/Modules/module.modulemap \
+  /Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/ExplicitPrecompiledModules/ColorSync-DNVJFO0Q81R2OBLBGUALRKOEC.pcm \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX27.0.sdk/System/Library/Frameworks/ColorSync.framework/Modules/module.modulemap \
+  /Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/ExplicitPrecompiledModules/ImageIO-AF5YFREWNLN6JYG7M79NVANLB.pcm \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX27.0.sdk/System/Library/Frameworks/ImageIO.framework/Modules/module.modulemap \
+  /Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/ExplicitPrecompiledModules/Foundation-250BKZ2F0N9RMQ38DXRM2DB04.pcm \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX27.0.sdk/System/Library/Frameworks/Foundation.framework/Modules/module.modulemap \
+  /Users/james/Documents/OpenTaskbar/app/.build/out/Intermediates.noindex/ExplicitPrecompiledModules/CUPS-BFOHR60EUGLGH408Z70O8JBJU.pcm \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX27.0.sdk/usr/include/cups.modulemap
