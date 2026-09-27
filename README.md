@@ -1,6 +1,6 @@
 # OpenTaskbar
 
-![macOS](https://img.shields.io/badge/macOS-13%20%7C%2014%20%7C%2015-000000.svg?logo=apple&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-25%20%7C%2026%20%7C%2027-000000.svg?logo=apple&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-5.9-FA7343.svg?logo=swift&logoColor=white)
 ![AppKit](https://img.shields.io/badge/UI-AppKit-1f6feb.svg)
 ![Version](https://img.shields.io/badge/Version-1.0.0-success.svg)
